@@ -16,7 +16,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. Ostapczuk, Andrzej
 1. [Selke, Marcin](http://mselke.github.io/)
 1. [Skuza, Łukasz](https://github.com/lskuza/)
-1. Sudomir-Gordon, Milena
+1. [Sudomir-Gordon, Milena](https://msudomir.github.io)
 1. [Mokrzycki, Rafał](http://rmokrzycki.github.io/)
 2. [Snarski, Lech](http://lsnarski.github.io/)
 
